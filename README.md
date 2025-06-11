@@ -7,7 +7,7 @@ I'm **Sizhuo**, a CV researcher passionate about building scalable products and 
 
 #### Daily basis:
 - Python (Pytorch, Tensorflow, PIL, Transformers, huggingface), Shell, Git 
-- Image perception
+- Image perception: segmentation, classification, regression, model adaptation
 - Vision-language models
 - Aerial remote sensing images
 
