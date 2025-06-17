@@ -7,13 +7,12 @@ Check my
 Reach me at sizli@di.ku.dk or via [LinkedIn](https://linkedin.com/in/sizhuoli) 
 
 #### Daily skills:
-- Python (Pytorch, Tensorflow, PIL, Transformers, huggingface), Shell, Git 
+- Python (Pytorch, Tensorflow, PIL, Transformers, huggingface), Shell, Git, Docker, Pypi
 - Image perception: segmentation, classification, regression, model adaptation
 - Vision-language models
 - Aerial remote sensing images
 
 #### Past / Project experience:
-- Docker, Pypi
 - Classic image processing, bias correction, uncertainty analysis, conformal prediction
 - Natural language processing, medical image generation
 
@@ -21,7 +20,7 @@ Reach me at sizli@di.ku.dk or via [LinkedIn](https://linkedin.com/in/sizhuoli)
 - GPT, agentic AI, Langchain, Cloud (Azure), DevOps & CI/CD pipelines
 
 
-### 📚 Education:
+#### 📚 Education:
 - PhD Applied CV, University of Copenhagen & University Paris Saclay
 - Msc Bioinformatics & computer science, University of Copenhagen
 
