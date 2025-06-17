@@ -19,9 +19,4 @@ Reach me at sizli@di.ku.dk or via [LinkedIn](https://linkedin.com/in/sizhuoli)
 #### General concept:
 - GPT, agentic AI, Langchain, Cloud (Azure), DevOps & CI/CD pipelines
 
-
-#### 📚 Education:
-- PhD Applied CV, University of Copenhagen & University Paris Saclay
-- Msc Bioinformatics & computer science, University of Copenhagen
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sizhuoli&theme=tokyonight&show_icons=true&stats=stars%0Acommits%0Aprs&hide_rank=true&hide=issues,contribs)
