@@ -8,11 +8,11 @@ Reach me at sizli@di.ku.dk or via [LinkedIn](https://linkedin.com/in/sizhuoli)
 
 #### Daily skills:
 - Python (Pytorch, Tensorflow, PIL, Transformers, huggingface), Shell, Git, Docker, Pypi
-- Image perception: segmentation, classification, regression, model adaptation
-- Vision-language models
-- Aerial remote sensing images
+- Image perception: segmentation, classification, regression, domain adaptation
+- Vision-language models: reasoning, visual grounding
+- Aerial remote sensing images: fine-grained feature learning
 
-#### Past / Project experience:
+#### Past project experience:
 - Classic image processing, bias correction, uncertainty analysis, conformal prediction
 - Natural language processing, medical image generation
 
