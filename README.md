@@ -4,7 +4,7 @@ I'm **Sizhuo**, a CV researcher passionate about building scalable products and 
 
 Check my
 [publications in ECCV, Nature, Nature Reviews, etc.](https://scholar.google.com/citations?hl=en&user=FPsHOWgAAAAJ&view_op=list_works&sortby=pubdate) 
-Reach me at sizli@di.ku.dk or via [LinkedIn](https://linkedin.com/in/sizhuoli) 
+Reach me at sizhuo.li@outlook.com or via [LinkedIn](https://linkedin.com/in/sizhuoli) 
 
 #### Daily skills:
 - Python (Pytorch, Tensorflow, PIL, Transformers, huggingface), Shell, Git, Docker, Pypi
